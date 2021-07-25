@@ -10,12 +10,13 @@ bs4 (pip install bs4)
 redivid (pip install redvid)
 pyautogui (pip install pyauto)
 
-#Usage
-In the file credentials you feed your Reddit- Id and password In the file subreddits you feed in the accounts whose info you need. 
+# Usage
+In the file credentials you feed your Reddit- Id and password 
+In the file subreddits you feed in the accounts whose info you need. 
 open test.py 
 
 
-#Screenshots
+# Screenshots
 ![alt text](https://github.com/WHITEWOLF619/reddit-webscraper/blob/main/main/ss/Untitled22221.jpg)
 ![alt text](https://github.com/WHITEWOLF619/reddit-webscraper/blob/main/main/ss/Untitled2222.jpg)
 ![alt text](https://github.com/WHITEWOLF619/reddit-webscraper/blob/main/main/ss/Untitled222212.jpg)
